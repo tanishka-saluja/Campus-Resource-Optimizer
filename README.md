@@ -1,5 +1,5 @@
 # Campus-Resource-Optimizer
-Smart Campus Resource Optimizer is a Java-based system that recommends optimal campus resources by analyzing availability, crowd levels, and proximity. It uses clean object-oriented design and linear-time algorithms for efficient decision-making.
+Campus Resource Optimizer is a Java-based system that recommends optimal campus resources by analyzing availability, crowd levels, and proximity. It uses clean object-oriented design and linear-time algorithms for efficient decision-making.
 
 ## Problem Statement
 Students often struggle to find available campus resources such as libraries,
